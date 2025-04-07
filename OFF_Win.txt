@@ -1,0 +1,7 @@
+REM Убедитесь, что Bad USB активирован на вашем Flipper Zero
+DELAY 2000
+REM Нажимаем Alt+F4 для вызова окна завершения работы
+ALT F4
+DELAY 500
+REM Подтверждаем выключение Enter'ом
+ENTER

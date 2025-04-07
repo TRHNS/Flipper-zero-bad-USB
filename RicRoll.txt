@@ -1,0 +1,9 @@
+REM Убедитесь, что ваш Flipper Zero поддерживает Bad USB
+DELAY 2000
+REM Открываем окно "Выполнить"
+GUI R
+DELAY 500
+REM Вводим команду для открытия YouTube с рикроллом
+STRING cmd /c start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 500
+ENTER
